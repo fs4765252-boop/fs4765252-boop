@@ -3,6 +3,8 @@
 ### 🎓 Agricultural Engineer | Data Science Enthusiast | Aspiring GSoC Contributor
 
 - 🎓 **Education:** B.Tech in Agricultural Engineering from Assam University (2024 Graduate)
+- 📜 **Certification:** Completed a 6-month intensive Data Science Course in Hyderabad
+- 💼 **Experience:** Completed a Data Science Internship at RamanaSoft (Hyderabad)
 - 💻 **Interests:** Data Science, Machine Learning, and Python Programming
 - 🏋️ **Fun Fact:** I'm into fitness and love doing my daily pushup routine!
 - 🎯 **GSoC Goal:** Looking to contribute to Open Source projects in Agriculture and AI.
@@ -14,5 +16,5 @@
 - **Fields:** Data Science, Machine Learning, SDLC, Agile
 
 ### 📫 How to reach me
-- fs4765252@gmail.com
+- 📧 Email: fs4765252@gmail.com
 -
