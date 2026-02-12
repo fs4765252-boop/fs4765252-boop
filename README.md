@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Farooq Shaik 👋
 
-<!--
-**fs4765252-boop/fs4765252-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Agricultural Engineer | Data Science Enthusiast | Aspiring GSoC Contributor
 
-Here are some ideas to get you started:
+- 🎓 **Education:** B.Tech in Agricultural Engineering from Assam University (2024 Graduate)
+- 💻 **Interests:** Data Science, Machine Learning, and Python Programming
+- 🏋️ **Fun Fact:** I'm into fitness and love doing my daily pushup routine!
+- 🎯 **GSoC Goal:** Looking to contribute to Open Source projects in Agriculture and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Languages:** Python
+- **Fields:** Data Science, Machine Learning, SDLC, Agile
+
+### 📫 How to reach me
+- fs4765252@gmail.com
+-
